@@ -109,7 +109,7 @@ first before the actual service was completed.
 mvn test
 ```
 
-### Break down each test tests
+### Break down each test:
 
  
 * `TapProcessorTest` , contains method to test happy scenario , incomplete , cancelled
