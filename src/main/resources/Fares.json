@@ -1,0 +1,23 @@
+[
+  {
+    "source": "Stop1",
+    "destination": "Stop2",
+    "cost": "325",
+    "currency": "$",
+    "multiplier": "100"
+  },
+  {
+    "source": "Stop2",
+    "destination": "Stop3",
+    "cost": "550",
+    "currency": "$",
+    "multiplier": "100"
+  },
+  {
+    "source": "Stop1",
+    "destination": "Stop3",
+    "cost": "730",
+    "currency": "$",
+    "multiplier": "100"
+  }
+]

@@ -1,0 +1,4 @@
+"Started","Finished","DurationSecs","FromStopId","ToStopId","ChargeAmount","CompanyId","BusID","PAN","Status"
+"22-01-2018 13:00:00","22-01-2018 13:05:00","300","Stop1","Stop2","$3.2500","Company1","Bus37","5500005555555559","COMPLETED"
+"22-01-2018 13:00:00","22-01-2018 13:01:00","60","Stop1","Stop1","$0.0000","Company1","Bus38","5500005555555569","CANCELLED"
+"22-01-2018 13:00:00","","","Stop1","","$7.3000","Company2","Bus39","5500005555555579","INCOMPLETE"
