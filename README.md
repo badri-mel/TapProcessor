@@ -1,4 +1,3 @@
-# LittlePay Engineering Coding exercise for Senior Engineer Role Dated 21/01/2023
 
 
 ## Getting Started
